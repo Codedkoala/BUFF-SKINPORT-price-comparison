@@ -1,0 +1,7 @@
+{
+    "settings":{
+        "cookies":"cookie",
+        "request_delay":"2", 
+        "consolelog":"True"
+    }
+}
